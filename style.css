@@ -1,0 +1,40 @@
+
+body{
+    background-color: #688458;
+    color: rgb(11, 66, 11);
+    text-align: center;
+    font-size: 25px;
+    padding: 0 24px;
+ }
+
+ .texto-um{
+   color: #1a3603;
+   font-size: 27px;
+
+ }
+
+ .texto-dois{
+   color: #000000;
+   font-size: 24px;
+ }
+  
+.paragrafo{ 
+font-size: 18px;
+color: #030403;
+}
+
+.rodape{
+text-align: center;
+display: grid;
+font-size: 18px;
+color: #040504;
+}
+
+.imagem{
+width: 49%;
+}
+
+.linha{
+border-bottom: 1px solid #223b22;
+border-top: 1px solid #223b22;
+}
